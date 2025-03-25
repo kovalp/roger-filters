@@ -1,3 +1,8 @@
+Version 1.4.6
+=============
+
+* Use UV for preparing the package.
+
 Version 1.4.5
 =============
 
